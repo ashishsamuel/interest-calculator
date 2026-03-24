@@ -17,7 +17,7 @@ function App() {
     setRateOfInterest("");
     setTimePeriod("");
   }
-  console.log("interst value calculated",interest);
+  // console.log("interst value calculated",interest);
 
   const handleReset = (e)=>{
     e.preventDefault();
