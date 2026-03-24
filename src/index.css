@@ -1,6 +1,7 @@
-body {
-  margin: 0;
-  padding: 0;
+* {
+  margin: 0px;
+  padding: 0px;
+  /* background-color: #000000; */
   box-sizing: border-box;
 }
 
